@@ -25,6 +25,6 @@
 <ul>
 <li>10:15-12:15: publisher a3 formaat feedback toepassen zoals zwarter maken, te koop duidelijker.</li>
 <li>13:00-17:00: publisher a3 formaat toepassen op projecten plus live feedback toepassen</li>
-<li>13:00- : publisher a4 formaat</li>
+<li>13:00-14:30: publisher a4 formaat</li>
 </ul>
 
